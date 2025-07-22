@@ -1,5 +1,13 @@
+## TODO Cosas pendiente por hacer
 
-## Pendiente por hacer
+- Hacer imagenes para cada componente para el meta ogImage en Ilustrator fondo transparente (svg)
+- Hacer lading page
 
-- Eliminar las pages controller y dejar solo el index.astro
-- 
+
+
+
+## Para nuevos proyectos con esta plantilla (NO BORRAR)
+
+- Crear los metas tags
+- Crear favicon (.svg o .ico)
+- Agregar logo e imagenes (.webp)
